@@ -1,4 +1,4 @@
-package org.spring.boot.dubbo.provider;
+package org.spring.boot.dubbo.provider.starter;
 
 import org.springframework.boot.WebApplicationType;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

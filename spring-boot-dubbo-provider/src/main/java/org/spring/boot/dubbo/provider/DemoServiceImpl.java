@@ -5,7 +5,7 @@ import org.spring.boot.dubbo.api.DemoService;
 import com.alibaba.dubbo.common.utils.StringUtils;
 import com.alibaba.dubbo.config.annotation.Service;
 
-@Service(version = "1.0.0")
+@Service(version = "${demo.service.version}")
 public class DemoServiceImpl implements DemoService {
 
 	@Override
