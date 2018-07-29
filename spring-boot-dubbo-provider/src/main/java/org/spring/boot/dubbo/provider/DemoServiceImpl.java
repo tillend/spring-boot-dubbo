@@ -8,11 +8,7 @@ import org.spring.boot.dubbo.api.model.Word;
 import com.alibaba.dubbo.common.utils.StringUtils;
 import com.alibaba.dubbo.config.annotation.Service;
 
-@Service(version = "1.0.0", 
-        timeout = 2000, 
-        validation = "true",
-        retries = 2,
-        loadbalance = "random")
+@Service(version = "${demo.service.version}")
 public class DemoServiceImpl implements DemoService {
 
     @Override
