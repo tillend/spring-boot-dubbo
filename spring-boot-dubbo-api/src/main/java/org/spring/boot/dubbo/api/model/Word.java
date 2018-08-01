@@ -13,7 +13,7 @@ public class Word implements Serializable {
      */
     private static final long serialVersionUID = -4898252480805741515L;
 
-    @Length(message = "参数错误", min = 10)
+    @Length(message = "参数错误", min = 1)
     private String word;
     @NotNull
     private int num;
