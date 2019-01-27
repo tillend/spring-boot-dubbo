@@ -6,4 +6,7 @@
 - [微服务框架（二）Spring Boot 集成 Dubbo](https://blog.csdn.net/why_still_confused/article/details/81055015)
 - [微服务框架（三）Dubbo性能调优配置](https://blog.csdn.net/why_still_confused/article/details/81193552)
 - [微服务框架（四）Dubbo泛化调用实现](https://blog.csdn.net/why_still_confused/article/details/81318328)
-
+- [微服务框架（五）Docker镜像化Dubbo微服务](https://blog.csdn.net/why_still_confused/article/details/81391827)
+- [微服务框架（六）Spring Boot集成Mybatis及Druid](https://blog.csdn.net/why_still_confused/article/details/81459177)
+- [微服务框架（七）Docker容器部署（Dubbo、Zookeeper、Dubbo-admin）](https://blog.csdn.net/why_still_confused/article/details/81545336)
+- [微服务框架（八）Spring Boot AOP 日志切面实现](https://blog.csdn.net/why_still_confused/article/details/81564992)
